@@ -8,6 +8,6 @@ I can type text here
 * list item
 * list item 2
 
-1 numbered list
-2 n2
+1. numbered list
+2. n2
 
