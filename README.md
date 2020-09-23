@@ -22,11 +22,11 @@ I can type text here
 ### My Reflection
 
 This was my first Onshape part and following along with Dr. Shields made is super easy.  I learned about 
-** sketching
-** constructions lines
-** dimensions
-** extruding (add and remove)
-** linear patterns
+* sketching
+* constructions lines
+* dimensions
+* extruding (add and remove)
+* linear patterns
 
 Onshape is awesome.  It is going to be a GREAT year in engineering.
 
