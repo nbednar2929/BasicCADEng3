@@ -13,11 +13,11 @@ I can type text here
 
 ### My Image 
 
-<img src="images/Base.jpg" alt"The Base" width="200">
+<img src="images/Base.jpg" alt="The Base" width="200">
 
 ### Link to the Onshape Document
 
-https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6
+[The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
 
 ### My Reflection
 
