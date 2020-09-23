@@ -22,9 +22,9 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 This was my first Onshape part and following along with Dr. Shields made is super easy.  I learned about 
 * sketching
-* constructions lines
-* dimensions
-* extruding (add and remove)
+* constructions lines shortcut key is **Q**
+* dimensions shortcut **D**
+* extruding (add and remove) shortcut key **E**
 * linear patterns
 
 Onshape is awesome.  It is going to be a GREAT year in engineering.
