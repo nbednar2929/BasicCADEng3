@@ -8,8 +8,7 @@ We are creating a caster.
 
 ### The Assignment
 
-The first assignment is a the base.  Its dimensions are 200 mm x120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
-I can type text here
+The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
 
 ### My Image 
 
