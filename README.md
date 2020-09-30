@@ -3,6 +3,14 @@
 We are creating a caster.
 
 ---
+## Table of Contents
+* [Table of Contents](#Table-of-Contents)
+* [Base](#Base)
+* [Mount](#Mount)
+* [Fork](#Fork)
+* [Tire](#Tire)
+* [Wheel](#Wheel)
+* [AxleCollarBearings](#AxleCollarBearings)
 
 ## Base
 
@@ -19,7 +27,7 @@ The first assignment is to create the caster base.  The base's dimensions are 20
 
 ### Reflection
 
-This was my first Onshape part and following along with Dr. Shields made is super easy.  I learned about 
+This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
 * sketching (shortcut **shift-s**)
 * constructions lines (shortcut **Q**)
 * dimensions (shortcut **D**)
@@ -29,5 +37,76 @@ This was my first Onshape part and following along with Dr. Shields made is supe
 Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
 
 ---
+
+
+## Mount
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+
+## Fork
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+
+## Tire
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+
+## Wheel
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+
+## AxleCollarBearings
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+
+
+
+
+
 
 
