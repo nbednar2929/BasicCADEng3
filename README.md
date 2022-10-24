@@ -3,7 +3,11 @@
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
 * [SwingArm](#SwingArm)
-* [FlyCopter](#FlyCopter)
+* [FlyCopter 4.1 (Ring & Spinner)](#FlyCopter 4.1 (Ring & Spinner))
+* [FlyCopter 4.2 (Key & Prop)](#FlyCopter 4.2 (Key & Prop))
+* [FlyCopter 4.3 (Assembling The Launcher)](#FlyCopter 4.3 (Assembling The Launcher))
+* [FlyCopter 4.4-4.5 (Assembling The Launcher)](#FlyCopter 4.4-4.5 (Assembling The Launcher))
+* [FlyCopter Final](#FlyCopter Final)
 ---
 
 ## SwingArm
