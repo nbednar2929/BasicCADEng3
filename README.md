@@ -33,19 +33,21 @@
 ### Evidence
   https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
 ### Image
-
+  ![Top, Ring, Key](https://user-images.githubusercontent.com/91289646/197615193-6620f8d8-d8a5-44a5-befc-b7a19aed0902.png)
 ### Reflection
+    This was a super simple piece to make. Just some easy sketches and extrudes.
 ---
 
 ## FlyCopter_4.2_(Key&Prop)
 
 ### Description
-
+  As student A I had to create the Key for this portion of the assignment.
 ### Evidence
   https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
 ### Image
-
+  ![Top, Ring, Key (1)](https://user-images.githubusercontent.com/91289646/197615541-5b516255-1fbf-4f70-84fd-70f937a982b0.png)
 ### Reflection
+    This one was slightly harder because I had to learn to use min and maxes when allowing extrusion and movent. I also had to use a linear pattern to extrude the         inlets of the key ridges.
 ---
 ## FlyCopter_4.3_(Assembling_The_Launcher)
 
