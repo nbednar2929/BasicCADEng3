@@ -27,7 +27,7 @@
 ### Description
   As student A I created the ring for this portion of the assignment.
 ### Evidence
-  [https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8]
+  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
 ### Image
 
 ### Reflection
@@ -38,7 +38,7 @@
 ### Description
 
 ### Evidence
-  [https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8]
+  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
 ### Image
 
 ### Reflection
@@ -48,7 +48,7 @@
 ### Description
 
 ### Evidence
-  [  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
+  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
 ### Reflection
 ---
 
@@ -57,7 +57,7 @@
 ### Description
 
 ### Evidence
-  [https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8]
+  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
 ### Image
 
 ### Reflection
