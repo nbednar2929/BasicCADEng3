@@ -4,6 +4,7 @@
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
 * [SwingArm](#SwingArm)
+* [FlyCopter](#FlyCopter)
 
 ## SwingArm
 
@@ -20,9 +21,22 @@
     create multiple shapes from multiple planes. I also needed to learn to constrain rough shapes before 
     fully dimensioning geometry.
 ---
-## NextAssignmentTempalte
+## FlyCopter
 
-### Assignment Name
+### Description
+  Create a fly copter with a teammate that can be printed and that properly functions.
+### Evidence
+  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/9ded9ee3a05b91310247a7bc?renderMode=0&uiState=6356e8a7b7948a2d7b58ef03
+### Image
+  ![Pull Copter](https://user-images.githubusercontent.com/91289646/197610644-def045d8-872c-4552-9373-56921ed734ac.png)
+### Reflection
+    This assignment was pretty easy since we were given step by step instructions on how to build every part of this. 
+    I enjoyed it because I got to learn more things in onshape, such as being able to view something from a cross plane, 
+    or better understanding revolves.
+---
+## Template
+
+## Assignment Name
 
 ### Description
 
