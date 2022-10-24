@@ -1,10 +1,10 @@
 # BasicCADEng3
-
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
 * [SwingArm](#SwingArm)
 * [FlyCopter](#FlyCopter)
+---
 
 ## SwingArm
 
@@ -21,6 +21,7 @@
     create multiple shapes from multiple planes. I also needed to learn to constrain rough shapes before 
     fully dimensioning geometry.
 ---
+
 ## FlyCopter 4.1 (Ring & Spinner)
 
 ### Description
@@ -31,7 +32,8 @@
 
 ### Reflection
 ---
-## FlyCopter 4.2
+
+## FlyCopter 4.2 (Key & Prop)
 
 ### Description
 
@@ -41,7 +43,7 @@
 
 ### Reflection
 ---
-## FlyCopter 4.3
+## FlyCopter 4.3 (Assembling The Launcher)
 
 ### Description
 
@@ -49,7 +51,8 @@
   [  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
 ### Reflection
 ---
-## FlyCopter 4.4-4.5
+
+## FlyCopter 4.4-4.5 (Let's Fly From This Branch)
 
 ### Description
 
