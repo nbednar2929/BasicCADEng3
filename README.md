@@ -21,7 +21,45 @@
     create multiple shapes from multiple planes. I also needed to learn to constrain rough shapes before 
     fully dimensioning geometry.
 ---
-## FlyCopter
+## FlyCopter 4.1 (Ring & Spinner)
+
+### Description
+  As student A I created the ring for this portion of the assignment.
+### Evidence
+  [https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8]
+### Image
+
+### Reflection
+---
+## FlyCopter 4.2
+
+### Description
+
+### Evidence
+  [https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8]
+### Image
+
+### Reflection
+---
+## FlyCopter 4.3
+
+### Description
+
+### Evidence
+  [  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
+### Reflection
+---
+## FlyCopter 4.4-4.5
+
+### Description
+
+### Evidence
+  [https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8]
+### Image
+
+### Reflection
+---
+## FlyCopter Final
 
 ### Description
   Create a fly copter with a teammate that can be printed and that properly functions.
@@ -45,3 +83,4 @@
 ### Image
 
 ### Reflection
+---
