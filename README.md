@@ -47,7 +47,8 @@
 ### Image
   ![Top, Ring, Key (1)](https://user-images.githubusercontent.com/91289646/197615541-5b516255-1fbf-4f70-84fd-70f937a982b0.png)
 ### Reflection
-    This one was slightly harder because I had to learn to use min and maxes when allowing extrusion and movent. I also had to use a linear pattern to extrude the         inlets of the key ridges.
+    This one was slightly harder because I had to learn to use min and maxes when allowing extrusion and movent. 
+    I also had to use a linear pattern to extrude the inlets of the key ridges.
 ---
 ## FlyCopter_4.3_(Assembling_The_Launcher)
 
