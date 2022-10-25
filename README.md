@@ -3,10 +3,10 @@
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
 * [SwingArm](#SwingArm)
-* [FlyCopter_4.1_(Ring&Spinner)](#FlyCopter4.1(Ring&Spinner))
-* [FlyCopter_4.2_(Key&Prop)](#FlyCopter_4.2_(Key&Prop))
-* [FlyCopter_4.3_(Assembling_The_Launcher)](#FlyCopter_4.3_(Assembling_The_Launcher))
-* [FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch!)](#FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch!))
+* [FlyCopter_4.1](#FlyCopter4.1)
+* [FlyCopter_4.2](#FlyCopter_4.2)
+* [FlyCopter_4.3](#FlyCopter_4.3)
+* [FlyCopter_4.4-4.5](#FlyCopter_4.4-4.5)
 * [MultiPartDesignPractice](#MultiPartDesignPractice)
 ---
 
