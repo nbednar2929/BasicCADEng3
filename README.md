@@ -7,6 +7,7 @@
 * [FlyCopter_4.2_(Key&Prop)](#FlyCopter_4.2_(Key&Prop))
 * [FlyCopter_4.3_(Assembling_The_Launcher)](#FlyCopter_4.3_(Assembling_The_Launcher))
 * [FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch!)](#FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch!))
+* [MultiPartDesignPractice](#MultiPartDesignPractice)
 ---
 
 ## SwingArm
