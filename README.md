@@ -15,10 +15,7 @@
   Link To Onshape Document:
   https://cvilleschools.onshape.com/documents/d88caac4d759f941e7cea4a8/w/bbba3462b73230afa103006c/e/8e2a22337fdf725841de39c3
 ### Image
-  ![Swing Arm](https://user-images.githubusercontent.com/91289646/197609091-8bb3a64a-15cf-43cc-ba78-75564c65bb31.png) {
-   width:150px;
-   height:100px;
-}
+  <img src="https://user-images.githubusercontent.com/91289646/197609091-8bb3a64a-15cf-43cc-ba78-75564c65bb31.png" width="200" height="200" />
 ### Reflection
     I struggled with this one at first because I was drawing on the wrong plane. 
     I needed to create a sketch from the side and just extrude pieces at different depths rather than
