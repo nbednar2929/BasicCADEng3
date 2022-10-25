@@ -12,6 +12,7 @@
 ### Description
   We were instructed to create a Swing Arm from a group of drawings and dimensions. After we must change dimensions of the swing arm in order to test whether or not it was constrained properly. This will help us prepare for your Onshape certification test.
 ### Evidence
+  Link To Onshape Document:
   https://cvilleschools.onshape.com/documents/d88caac4d759f941e7cea4a8/w/bbba3462b73230afa103006c/e/8e2a22337fdf725841de39c3
 ### Image
   ![Swing Arm](https://user-images.githubusercontent.com/91289646/197609091-8bb3a64a-15cf-43cc-ba78-75564c65bb31.png)
@@ -28,6 +29,7 @@
   As student A I created the ring, key, assemble and mate it all together,
   and create a branch to create my own variation of the FlyCopter's design.
 ### Evidence
+  Link To Onshape Document:
   https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/9ded9ee3a05b91310247a7bc?renderMode=0&uiState=635830f40c05b120e347dfa6
 ### Image
   Ring:
@@ -56,6 +58,7 @@
   Afterwards I had to make 3 different variations to the part with the purpose of braking my assembly. 
   This intern would force me to learn how to properly dimension. 
 ### Evidence
+  Link To Onshape Document:
   https://cvilleschools.onshape.com/documents/dac4be3b843869eb81761d59/v/371ede44ce9a487e310ab410/e/71fa4ea71f0dddf48e0bd07e?renderMode=0&uiState=63582e5912e82f08ee25ac28
 ### Image
   Original Part:
