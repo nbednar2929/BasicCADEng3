@@ -12,7 +12,6 @@
 ### Description
   We were instructed to create a Swing Arm from a group of drawings and dimensions. After we must change dimensions of the swing arm in order to test whether or not it was constrained properly. This will help us prepare for your Onshape certification test.
 ### Evidence
-  Link to Onshape document:
   https://cvilleschools.onshape.com/documents/d88caac4d759f941e7cea4a8/w/bbba3462b73230afa103006c/e/8e2a22337fdf725841de39c3
 ### Image
   ![Swing Arm](https://user-images.githubusercontent.com/91289646/197609091-8bb3a64a-15cf-43cc-ba78-75564c65bb31.png)
@@ -32,41 +31,20 @@
   https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/9ded9ee3a05b91310247a7bc?renderMode=0&uiState=635830f40c05b120e347dfa6
 ### Image
   ![Top, Ring, Key](https://user-images.githubusercontent.com/91289646/197615193-6620f8d8-d8a5-44a5-befc-b7a19aed0902.png)
-### Reflection
-    This was a super simple piece to make. Just some easy sketches and extrudes. 
-    Along with the step by step instructions this was an everyday CAD model.
----
-
-## FlyCopter_4.2_(Key&Prop)
-### Evidence
-  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
-### Image
   ![Top, Ring, Key (1)](https://user-images.githubusercontent.com/91289646/197615541-5b516255-1fbf-4f70-84fd-70f937a982b0.png)
-### Reflection
-    This one was slightly harder because I had to learn to use min and maxes when allowing extrusion and movent. 
-    I also had to use a linear pattern to extrude the inlets of the key ridges and it was hard to find the ridge to patter off.
----
-## FlyCopter_4.3_(Assembling_The_Launcher)
-### Evidence
-  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
-### Image
   ![Pull Copter](https://user-images.githubusercontent.com/91289646/197610644-def045d8-872c-4552-9373-56921ed734ac.png)
-### Reflection
-    This was also pretty easy. Just some simple fastened mates and revolute mates. 
-    There was one slide mate that I had to connect to a mate a created previously. 
-    I also created limits for the slide mate which is a useful tool to know how to use.
----
-
-## FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch)
-### Evidence
-  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
-### Image
   ![Fly Copter Branch](https://user-images.githubusercontent.com/91289646/197853613-2e0a0aa1-cab1-4c25-8636-576960502c4a.PNG)
 ### Reflection
-    I did not like this part of the assignment. The branching in Onshape still confuses me.
+    The ring was a super simple piece to make. Just some easy sketches and extrudes. 
+    The key was slightly harder because I had to learn to use min and maxes when allowing extrusion.
+    I also had to use a linear pattern to extrude the inlets of the key ridges and it was hard to find the face I needed to select.
+    Assembly was also pretty easy. Just some simple fastened mates and revolute mates. 
+    There was one slide mate that I had to use with a mate I created previously on the key.
+    I also created limits for the slide mate which restricted its movement.
+    Finally I did not like branching this assignment. The branching in Onshape still confuses me.
     I don't understand how to create a branch of a branch easily. 
-    
 ---
+
 ## MultiPartDesignPractice
 
 ### Description
