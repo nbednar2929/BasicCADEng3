@@ -2,7 +2,7 @@
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
-* [Swing Arm](#SwingArm)
+* [Swing Arm](#Swing Arm)
 * [FlyCopter_4.1_(Ring&Spinner)](#FlyCopter4.1(Ring&Spinner))
 * [FlyCopter_4.2_(Key&Prop)](#FlyCopter_4.2_(Key&Prop))
 * [FlyCopter_4.3_(Assembling_The_Launcher)](#FlyCopter_4.3_(Assembling_The_Launcher))
