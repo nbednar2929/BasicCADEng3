@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
 * [SwingArm](#SwingArm)
-* [FlyCopter4.1(Ring&Spinner)](#FlyCopter4.1(Ring&Spinner))
+* [FlyCopter_4.1_(Ring&Spinner)](#FlyCopter4.1(Ring&Spinner))
 * [FlyCopter_4.2_(Key&Prop)](#FlyCopter_4.2_(Key&Prop))
 * [FlyCopter_4.3_(Assembling_The_Launcher)](#FlyCopter_4.3_(Assembling_The_Launcher))
 * [FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch!)](#FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch!))
@@ -25,7 +25,7 @@
     fully dimensioning geometry.
 ---
 
-## FlyCopter4.1(Ring&Spinner)
+## FlyCopter_4.1_(Ring&Spinner)
 
 ### Description
   As student A I created the ring for this portion of the assignment.
