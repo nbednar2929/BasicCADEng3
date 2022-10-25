@@ -3,10 +3,7 @@
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
 * [SwingArm](#SwingArm)
-* [FlyCopter_4.1_(Ring&Spinner)](#FlyCopter4.1(Ring&Spinner))
-* [FlyCopter_4.2_(Key&Prop)](#FlyCopter_4.2_(Key&Prop))
-* [FlyCopter_4.3_(Assembling_The_Launcher)](#FlyCopter_4.3_(Assembling_The_Launcher))
-* [FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch!)](#FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch!))
+* [FlyCopter](#FlyCopter)
 * [MultiPartDesignPractice](#MultiPartDesignPractice)
 ---
 
@@ -26,12 +23,13 @@
     fully dimensioning geometry.
 ---
 
-## FlyCopter_4.1_(Ring&Spinner)
+## FlyCopter
 
 ### Description
-  As student A I created the ring for this portion of the assignment.
+  As student A I created the ring, key, assemble and mate it all together,
+  and create a branch to create my own variation of the FlyCopter's design.
 ### Evidence
-  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
+  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/9ded9ee3a05b91310247a7bc?renderMode=0&uiState=635830f40c05b120e347dfa6
 ### Image
   ![Top, Ring, Key](https://user-images.githubusercontent.com/91289646/197615193-6620f8d8-d8a5-44a5-befc-b7a19aed0902.png)
 ### Reflection
@@ -40,9 +38,6 @@
 ---
 
 ## FlyCopter_4.2_(Key&Prop)
-
-### Description
-  As student A I had to create the Key for this portion of the assignment.
 ### Evidence
   https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
 ### Image
@@ -52,9 +47,6 @@
     I also had to use a linear pattern to extrude the inlets of the key ridges and it was hard to find the ridge to patter off.
 ---
 ## FlyCopter_4.3_(Assembling_The_Launcher)
-
-### Description
-  As student A I had to assemble and mate the Fly Copter together.
 ### Evidence
   https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
 ### Image
@@ -66,9 +58,6 @@
 ---
 
 ## FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch)
-
-### Description
-  I had to create a seperate branch for the assembly and make a modification of my choice to the "Prop".
 ### Evidence
   https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
 ### Image
