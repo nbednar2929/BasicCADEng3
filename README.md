@@ -53,10 +53,15 @@
 ## FlyCopter_4.3_(Assembling_The_Launcher)
 
 ### Description
-
+  As student A I had to assemble and mate the Fly Copter together.
 ### Evidence
   https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
+### Image
+  ![Pull Copter](https://user-images.githubusercontent.com/91289646/197610644-def045d8-872c-4552-9373-56921ed734ac.png)
 ### Reflection
+    This was also pretty easy. Just some simple fastened mates and revolute mates. 
+    There was one slide mate that I had to connect to a mate a created previously. 
+    I also created limits for the slide mate which is a useful tool to know how to use.
 ---
 
 ## FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch)
@@ -66,22 +71,11 @@
 ### Evidence
   https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
 ### Image
-
-### Reflection
----
-## FlyCopterFinal
-
-### Description
-  Create a fly copter with a teammate that can be printed and that properly functions.
-### Evidence
-  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/9ded9ee3a05b91310247a7bc?renderMode=0&uiState=6356e8a7b7948a2d7b58ef03
-### Image
   ![Pull Copter](https://user-images.githubusercontent.com/91289646/197610644-def045d8-872c-4552-9373-56921ed734ac.png)
 ### Reflection
-    This assignment was pretty easy since we were given step by step instructions on how to build every part of this. 
-    I enjoyed it because I got to learn more things in onshape, such as being able to view something from a cross plane, 
-    or better understanding revolves.
+
 ---
+
 ## Template
 
 ## Assignment Name
