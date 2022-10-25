@@ -2,14 +2,14 @@
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
-* [Swing Arm](#Swing Arm)
+* [SwingArm](#SwingArm)
 * [FlyCopter_4.1_(Ring&Spinner)](#FlyCopter4.1(Ring&Spinner))
 * [FlyCopter_4.2_(Key&Prop)](#FlyCopter_4.2_(Key&Prop))
 * [FlyCopter_4.3_(Assembling_The_Launcher)](#FlyCopter_4.3_(Assembling_The_Launcher))
 * [FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch!)](#FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch!))
 ---
 
-## Swing Arm
+## SwingArm
 
 ### Description
   We were instructed to create a Swing Arm from a group of drawings and dimensions. After we must change dimensions of the swing arm in order to test whether or not it was constrained properly. This will help us prepare for your Onshape certification test.
