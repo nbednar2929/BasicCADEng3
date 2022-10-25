@@ -66,13 +66,14 @@
 ## FlyCopter_4.4-4.5_(Let's_Fly_From_This_Branch)
 
 ### Description
-
+  I had to create a seperate branch for the assembly and make a modification of my choice to the "Prop".
 ### Evidence
   https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/2e98bd250874d6e59b1002c8
 ### Image
-  ![Pull Copter](https://user-images.githubusercontent.com/91289646/197610644-def045d8-872c-4552-9373-56921ed734ac.png)
+  ![Fly Copter Branch](https://user-images.githubusercontent.com/91289646/197853613-2e0a0aa1-cab1-4c25-8636-576960502c4a.PNG)
 ### Reflection
-
+    I did not like this part of the assignment. The branching in Onshape still confuses me.
+    I don't understand how to create a branch of a branch easily.
 ---
 
 ## Template
