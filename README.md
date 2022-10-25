@@ -80,12 +80,18 @@
 ## MultiPartDesignPractice
 
 ### Description
-
+  I must create a multi-part design based on drawings and minimal amounts of dimensions. 
+  Afterwards I had to make 3 different variations to the part with the purpose of braking my assembly. 
+  This intern would force me to learn how to properly dimension.
 ### Evidence
-
+  https://cvilleschools.onshape.com/documents/dac4be3b843869eb81761d59/v/371ede44ce9a487e310ab410/e/71fa4ea71f0dddf48e0bd07e?renderMode=0&uiState=63582e5912e82f08ee25ac28
 ### Image
-
+  ![cylinder parts](https://user-images.githubusercontent.com/91289646/197855838-cffacc8e-2bbe-4aab-bdaa-917abed97d24.png)
 ### Reflection
+    I really sturggled with this assignment because I wasn't dimensioning the parts based off each other. 
+    I was putting in dimensions that were given to me rather than utilizing the "use" tool. 
+    If I used the "use" tool then the 3 variations of the part I made would have changed in context with one another,
+    meaning I wouldn't have to change different parts based on their dimensions.
 ---
 
 ## Template
