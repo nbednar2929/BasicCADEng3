@@ -34,7 +34,8 @@
 ### Image
   ![Top, Ring, Key](https://user-images.githubusercontent.com/91289646/197615193-6620f8d8-d8a5-44a5-befc-b7a19aed0902.png)
 ### Reflection
-    This was a super simple piece to make. Just some easy sketches and extrudes.
+    This was a super simple piece to make. Just some easy sketches and extrudes. 
+    Along with the step by step instructions this was an everyday CAD model.
 ---
 
 ## FlyCopter_4.2_(Key&Prop)
@@ -47,7 +48,7 @@
   ![Top, Ring, Key (1)](https://user-images.githubusercontent.com/91289646/197615541-5b516255-1fbf-4f70-84fd-70f937a982b0.png)
 ### Reflection
     This one was slightly harder because I had to learn to use min and maxes when allowing extrusion and movent. 
-    I also had to use a linear pattern to extrude the inlets of the key ridges.
+    I also had to use a linear pattern to extrude the inlets of the key ridges and it was hard to find the ridge to patter off.
 ---
 ## FlyCopter_4.3_(Assembling_The_Launcher)
 
@@ -73,7 +74,7 @@
   ![Fly Copter Branch](https://user-images.githubusercontent.com/91289646/197853613-2e0a0aa1-cab1-4c25-8636-576960502c4a.PNG)
 ### Reflection
     I did not like this part of the assignment. The branching in Onshape still confuses me.
-    I don't understand how to create a branch of a branch easily.
+    I don't understand how to create a branch of a branch easily. 
 ---
 
 ## Template
