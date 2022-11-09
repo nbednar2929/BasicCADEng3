@@ -2,12 +2,12 @@
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
-* [SwingArm](#SwingArm)
-* [FlyCopter](#FlyCopter)
-* [MultiPartDesignPractice](#MultiPartDesignPractice)
+* [Swing Arm](#Swing-Arm)
+* [Fly Copter](#Fly-Copter)
+* [Multi Part Design Practice](#Multi-Part-Design-Practice)
 ---
 
-## SwingArm
+## Swing Arm
 
 ### Description
   We were instructed to create a Swing Arm from a group of drawings and dimensions. After we must change dimensions of the swing arm in order to test whether or not it was constrained properly. This will help us prepare for your Onshape certification test.
@@ -23,7 +23,7 @@
     fully dimensioning geometry.
 ---
 
-## FlyCopter
+## Fly Copter
 
 ### Description
   As student A I created the ring, key, assemble and mate it all together,
@@ -51,7 +51,7 @@
     I don't understand how to create a branch of a branch easily. 
 ---
 
-## MultiPartDesignPractice
+## Multi Part Design Practice
 
 ### Description
   I must create a multi-part design based on drawings and minimal amounts of dimensions. 
@@ -73,14 +73,14 @@
     in order to allow myself to look at the previous changes I made which were only built on with the different variations.
 ---
 
-## IntermediateCAD_Tutorials
+## Intermediate CAD Tutorials
 
 ### Description
   I was given a set up videos and intructions to follow in order to instill a multitude of CAD tools into my mind.
 ### Evidence
-  https://cvilleschools.onshape.com/documents/45d7ec10da556b2c9f0d1266/w/343519f0b19054f8c54f1631/e/acb800cbf4632287ffd6fcd2?renderMode=0&uiState=636c0bb55cd5b428befaa37d
-  https://cvilleschools.onshape.com/documents/5506fed66655bd9ed36c1dae/w/18daced323678994a3f0999c/e/3b716b493fe219edb11b81a2?renderMode=0&uiState=636c0bc1e459e85315a741a4
-  https://cvilleschools.onshape.com/documents/9451bfe83639770df1ed09c6/w/2ca0407e70d5a36824be74d7/e/83c31b735f3e879dc388a652?renderMode=0&uiState=636c0bad3b23f06f590170ad
+  ![Basic Assembly(]https://cvilleschools.onshape.com/documents/45d7ec10da556b2c9f0d1266/w/343519f0b19054f8c54f1631/e/acb800cbf4632287ffd6fcd2?renderMode=0&uiState=636c0bb55cd5b428befaa37d)
+  ![Creating Explicit Mate Connectors](https://cvilleschools.onshape.com/documents/5506fed66655bd9ed36c1dae/w/18daced323678994a3f0999c/e/3b716b493fe219edb11b81a2?renderMode=0&uiState=636c0bc1e459e85315a741a4)
+  ![Intermediate Assembly](https://cvilleschools.onshape.com/documents/9451bfe83639770df1ed09c6/w/2ca0407e70d5a36824be74d7/e/83c31b735f3e879dc388a652?renderMode=0&uiState=636c0bad3b23f06f590170ad)
 ### Image
 
 ### Reflection
