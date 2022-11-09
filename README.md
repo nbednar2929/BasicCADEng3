@@ -87,7 +87,9 @@
 ![intermediate assembly submission](https://user-images.githubusercontent.com/91289646/200934952-ce09f320-b62a-43b7-a365-d4f791022664.PNG)
 
 ### Reflection
-
+    All of these assignemnt were fairly easy. Just reviewing stuff I generally knew,
+    even if I never truly used them in practice I understood their general principles. 
+    All in all it was just some simple assemblies and usage of some slightly newer organizational tools.
 ---
 
 # Template
