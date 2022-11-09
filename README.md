@@ -82,6 +82,9 @@
   ![Creating Explicit Mate Connectors](https://cvilleschools.onshape.com/documents/5506fed66655bd9ed36c1dae/w/18daced323678994a3f0999c/e/3b716b493fe219edb11b81a2?renderMode=0&uiState=636c0bc1e459e85315a741a4)
   ![Intermediate Assembly](https://cvilleschools.onshape.com/documents/9451bfe83639770df1ed09c6/w/2ca0407e70d5a36824be74d7/e/83c31b735f3e879dc388a652?renderMode=0&uiState=636c0bad3b23f06f590170ad)
 ### Image
+![basic assembly submission](https://user-images.githubusercontent.com/91289646/200934927-acc51dca-7ede-48ef-9a18-c9bb61941451.PNG)
+![creating explicit mate connectors](https://user-images.githubusercontent.com/91289646/200934939-032d3681-7d05-42dc-97e3-f81402ac8aa5.PNG)
+![intermediate assembly submission](https://user-images.githubusercontent.com/91289646/200934952-ce09f320-b62a-43b7-a365-d4f791022664.PNG)
 
 ### Reflection
 
