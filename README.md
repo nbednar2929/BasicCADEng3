@@ -38,7 +38,7 @@
   
   Key:
   
-  <img srt="https://user-images.githubusercontent.com/91289646/197615541-5b516255-1fbf-4f70-84fd-70f937a982b0.png" width ="550" height="400">
+  <img src="https://user-images.githubusercontent.com/91289646/197615541-5b516255-1fbf-4f70-84fd-70f937a982b0.png" width ="550" height="400">
   
   Final Assembly:
   ![Pull Copter](https://user-images.githubusercontent.com/91289646/197610644-def045d8-872c-4552-9373-56921ed734ac.png)
