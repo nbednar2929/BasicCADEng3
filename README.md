@@ -69,8 +69,11 @@
   https://cvilleschools.onshape.com/documents/dac4be3b843869eb81761d59/v/371ede44ce9a487e310ab410/e/71fa4ea71f0dddf48e0bd07e?renderMode=0&uiState=63582e5912e82f08ee25ac28
 ### Image
   Original Part:
-  ![cylinder parts](https://user-images.githubusercontent.com/91289646/197855838-cffacc8e-2bbe-4aab-bdaa-917abed97d24.png)
+  
+  <img src="https://user-images.githubusercontent.com/91289646/197855838-cffacc8e-2bbe-4aab-bdaa-917abed97d24.png" width="200" height="600">
+  
   Part after third varation:
+  
   ![cylinder parts (1)](https://user-images.githubusercontent.com/91289646/197856701-a71fe58e-3de0-4edd-94f6-31ee63d831ff.png)
 ### Reflection
     I really sturggled with this assignment because I wasn't dimensioning the parts based off each other. 
