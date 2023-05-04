@@ -30,14 +30,15 @@
   As student A I created the ring, key, assemble and mate it all together,
   and create a branch to create my own variation of the FlyCopter's design.
 ### Evidence
-  Link To Onshape Document:
-  https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/9ded9ee3a05b91310247a7bc?renderMode=0&uiState=635830f40c05b120e347dfa6
+  Link To Onshape Document: https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/9ded9ee3a05b91310247a7bc?renderMode=0&uiState=635830f40c05b120e347dfa6
 ### Image
   Ring:
+  
   <img src="https://user-images.githubusercontent.com/91289646/197615193-6620f8d8-d8a5-44a5-befc-b7a19aed0902.png" width="550" height="400">
   
   Key:
-  ![Top, Ring, Key (1)](https://user-images.githubusercontent.com/91289646/197615541-5b516255-1fbf-4f70-84fd-70f937a982b0.png)
+  
+  <img srt="https://user-images.githubusercontent.com/91289646/197615541-5b516255-1fbf-4f70-84fd-70f937a982b0.png" width ="550" height="400">
   
   Final Assembly:
   ![Pull Copter](https://user-images.githubusercontent.com/91289646/197610644-def045d8-872c-4552-9373-56921ed734ac.png)
