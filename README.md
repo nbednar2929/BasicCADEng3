@@ -29,7 +29,7 @@
   As student A I created the ring, key, assemble and mate it all together,
   and create a branch to create my own variation of the FlyCopter's design.
 ### Evidence
-  [Link To Onshape Document}(https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/9ded9ee3a05b91310247a7bc?renderMode=0&uiState=635830f40c05b120e347dfa6)
+  [Link To Onshape Document](https://cvilleschools.onshape.com/documents/4dfdda2c1ff889c8dcbb4703/w/cb4eb8bae6270a91f983b4f1/e/9ded9ee3a05b91310247a7bc?renderMode=0&uiState=635830f40c05b120e347dfa6)
   
 ### Image
   Ring:
