@@ -70,11 +70,12 @@
 ### Image
   Original Part:
   
-  <img src="https://user-images.githubusercontent.com/91289646/197855838-cffacc8e-2bbe-4aab-bdaa-917abed97d24.png" width="350" height="600">
+  <img src="https://user-images.githubusercontent.com/91289646/197855838-cffacc8e-2bbe-4aab-bdaa-917abed97d24.png" width="400" height="600">
   
   Part after third varation:
   
-  ![cylinder parts (1)](https://user-images.githubusercontent.com/91289646/197856701-a71fe58e-3de0-4edd-94f6-31ee63d831ff.png)
+  <img src="https://user-images.githubusercontent.com/91289646/197856701-a71fe58e-3de0-4edd-94f6-31ee63d831ff.png" width="400" height="600">
+  
 ### Reflection
     I really sturggled with this assignment because I wasn't dimensioning the parts based off each other. 
     I was putting in dimensions that were given to me rather than utilizing the "use" tool. 
