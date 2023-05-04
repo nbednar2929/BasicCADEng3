@@ -70,7 +70,7 @@
 ### Image
   Original Part:
   
-  <img src="https://user-images.githubusercontent.com/91289646/197855838-cffacc8e-2bbe-4aab-bdaa-917abed97d24.png" width="200" height="600">
+  <img src="https://user-images.githubusercontent.com/91289646/197855838-cffacc8e-2bbe-4aab-bdaa-917abed97d24.png" width="350" height="600">
   
   Part after third varation:
   
