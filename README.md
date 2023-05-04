@@ -65,8 +65,7 @@
   Afterwards I had to make 3 different variations to the part with the purpose of braking my assembly. 
   This intern would force me to learn how to properly dimension. 
 ### Evidence
-  [Link To Onshape Document]
-(https://cvilleschools.onshape.com/documents/dac4be3b843869eb81761d59/v/371ede44ce9a487e310ab410/e/71fa4ea71f0dddf48e0bd07e?renderMode=0&uiState=63582e5912e82f08ee25ac28)
+  [Link To Onshape Document](https://cvilleschools.onshape.com/documents/dac4be3b843869eb81761d59/v/371ede44ce9a487e310ab410/e/71fa4ea71f0dddf48e0bd07e?renderMode=0&uiState=63582e5912e82f08ee25ac28)
 ### Image
   Original Part:
   
