@@ -5,6 +5,7 @@
 * [Swing Arm](#Swing-Arm)
 * [Fly Copter](#Fly-Copter)
 * [Multi Part Design Practice](#Multi-Part-Design-Practice)
+* [Onshape Certification](#Onshape-Certification)
 ---
 
 ## Swing Arm
@@ -92,6 +93,18 @@
     All in all it was just some simple assemblies and usage of some slightly newer organizational tools.
 ---
 
+## Onshape Certification
+
+### Description
+  This is a link to my certificate for passing the Onshape exam.
+### Evidence
+  https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/b38629ed-d9ba-4153-9077-77d243eb6d2d-nicholas-bednar-97578f38-ac36-4978-9f6b-54196ec0a8da-certificate.pdf
+  
+### Reflection
+This exam wasn't all to difficult especially given the practice we were given in class. I did a multitude of practice assemblies and part studios to prepare me for the exam and the helped immensely. During the exam I listened to music to help me stay in the zone and just focus on the exam. It wasn't too difficult, one of the assemblies was nearly identitical to something we did for practice which helped and in the end I only got a single question incorrect on the assemblies/part studio portion of the exam. I felt confident enough about the first portion that when it came to the multiple choice I didn't think too deeply and just went with my gut. All in all I passed the exam in an hour and twenty minutes with a score of 91/100.
+
+---
+
 # Template
 
 ## Assignment Name
@@ -105,3 +118,4 @@
 ### Reflection
 
 ---
+
